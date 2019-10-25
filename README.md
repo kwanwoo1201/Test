@@ -1,2 +1,4 @@
 # Test
 Test
+
+int a;
